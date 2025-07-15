@@ -110,9 +110,9 @@ After applying log transformation on the target to handle skewed revenue data:
 
 ## 🧠 Author
 
-**[Your Name]**  
+**Eugene Kwesi Acquah**  
 Master in AI & Data Science – Panamerican University  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@Eugene90-design](https://github.com/Eugene90-design)
 
 ---
 
