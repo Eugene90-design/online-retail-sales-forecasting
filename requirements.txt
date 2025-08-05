@@ -1,0 +1,7 @@
+🧮 Data manipulation (pandas, numpy)
+
+📊 Plotting (matplotlib, seaborn)
+
+📈 Modeling (scikit-learn, xgboost, statsmodels)
+
+🧪 Notebook execution (jupyter)
